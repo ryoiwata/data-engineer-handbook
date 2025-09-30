@@ -3,3 +3,6 @@
 
 # API KEY
 .env
+
+# Data files
+*.csv
